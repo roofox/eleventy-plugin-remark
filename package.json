@@ -1,0 +1,24 @@
+{
+  "name": "@roofox/eleventy-plugin-remark",
+  "version": "0.1.0",
+  "description": "Plugin for Eleventy to process Markdown files with Remark",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roofox/eleventy-plugin-remark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roofox/eleventy-plugin-remark/issues"
+  },
+  "homepage": "https://github.com/roofox/eleventy-plugin-remark#readme",
+  "dependencies": {
+    "remark": "^12.0.1",
+    "remark-html": "^12.0.0"
+  }
+}
